@@ -1,5 +1,9 @@
 A full-stack resume builder application built with **React (frontend)** and **Express.js + MongoDB (backend)**. Create, edit, and download beautiful resumes effortlessly.
 
+![Alt Text](https://github.com/vvr10223/Resume_Builder/blob/main/frontend/resume-builder/src/assets/resumehome.png)
+![Alt Text](relative/or/absolute/image/path.png)
+![Alt Text](relative/or/absolute/image/path.png)
+
 Running the Resume Builder App Project
 Backend (Express.js)
 1. Navigate to the `backend` folder in your terminal.
